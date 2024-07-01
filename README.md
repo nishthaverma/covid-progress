@@ -1,1 +1,1 @@
-# covidprogress
+# covid-progress
