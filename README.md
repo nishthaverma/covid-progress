@@ -3,14 +3,14 @@
 <H3> Introduction </H3>
 I started this project with the intention of learning about creating charts in python about a year ago. Recently, I had to learn how to make prediction models for an assignment, and thought this would be an interesting dataset to build up on! 
 
-<H1> Project Overview </H1>
+<H3> Project Overview </H3>
 This project aims to analyze vaccination data and build a prediction model to determine the time required for countries to reach herd immunity (defined as 70% of the population being fully vaccinated). The project uses a Linear Regression model and a Random Forest Regressor to make these predictions.
 
-<H1> About Dataset </H1>
+<H3> About Dataset </H3>
 Context
 Data is collected daily from Our World in Data GitHub repository for covid-19, merged and uploaded. Country level vaccination data is gathered and assembled in one single file. Then, this data file is merged with locations data file to include vaccination sources information. A second file, with manufacturers information, is included.
 
-<H1> Data </H1>
+<H3> Data </H3>
 
 The data (country vaccinations) contains the following information:
 
@@ -32,12 +32,12 @@ Vaccines used in the country - total number of vaccines used in the country (up 
 <li>Source name - source of the information (national authority, international organization, local organization etc.)
 <li>Source website - website of the source of information
 </ul>
-<H1> How to Run the Project </H1>
+<H3> How to Run the Project </H3>
 <ol type="1">
 <li> Install the necessary libraries:
 pip install pandas matplotlib scikit-learn
 <li>Run the provided code to preprocess the data, train the models, and evaluate their performance.
 </ol>
-<H1> Conclusion </H1>
+<H3> Conclusion </H3>
 This project provides an analysis of vaccination data and builds predictive models to estimate the time required for countries to reach herd immunity. The Random Forest Regressor shows promising results, as indicated by the performance metrics and visualizations.
 
