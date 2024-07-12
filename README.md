@@ -33,7 +33,7 @@ Vaccines used in the country - total number of vaccines used in the country (up 
 <li>Source website - website of the source of information
 
 <H1> How to Run the Project </H1>
-<ol>
+<ol type="1">
 <li> Install the necessary libraries:
 pip install pandas matplotlib scikit-learn
 <li>Run the provided code to preprocess the data, train the models, and evaluate their performance.
