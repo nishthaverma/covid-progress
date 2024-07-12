@@ -31,13 +31,13 @@ The data (country vaccinations) contains the following information:
 Vaccines used in the country - total number of vaccines used in the country (up to date)
 <li>Source name - source of the information (national authority, international organization, local organization etc.)
 <li>Source website - website of the source of information
-
+</ul>
 <H1> How to Run the Project </H1>
 <ol type="1">
 <li> Install the necessary libraries:
 pip install pandas matplotlib scikit-learn
 <li>Run the provided code to preprocess the data, train the models, and evaluate their performance.
-
+</ol>
 <H1> Conclusion </H1>
 This project provides an analysis of vaccination data and builds predictive models to estimate the time required for countries to reach herd immunity. The Random Forest Regressor shows promising results, as indicated by the performance metrics and visualizations.
 
