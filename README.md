@@ -27,7 +27,7 @@ The data (country vaccinations) contains the following information:
 <li>Total number of people vaccinated per hundred - ratio (in percent) between population immunized and total population up to the date in the country
 <li>Total number of people fully vaccinated per hundred - ratio (in percent) between population fully immunized and total population up to the date in the country
 <li>Number of vaccinations per day - number of daily vaccination for that day and country
-<li>Daily vaccinations per million - ratio (in ppm) between vaccination number and total population for the current date in the country;
-Vaccines used in the country - total number of vaccines used in the country (up to date);
-<li>Source name - source of the information (national authority, international organization, local organization etc.);
-<li>Source website - website of the source of information;
+<li>Daily vaccinations per million - ratio (in ppm) between vaccination number and total population for the current date in the country
+Vaccines used in the country - total number of vaccines used in the country (up to date)
+<li>Source name - source of the information (national authority, international organization, local organization etc.)
+<li>Source website - website of the source of information
